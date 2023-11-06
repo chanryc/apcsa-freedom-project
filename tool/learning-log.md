@@ -1,6 +1,6 @@
 # Tool Learning Log - 10/23 to 10/29
 
-Tool: **Swift**
+Tool: **Flutter**
 
 Project: **Cat Productivity App**
 
