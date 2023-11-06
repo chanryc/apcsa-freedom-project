@@ -1,8 +1,8 @@
-# Tool Learning Log - 10/23 to 10/29
+# Tool Learning Log 
 
 Tool: **Flutter**
 
-Project: **Cat Productivity App**
+Project: **Cookbook App/ Cat Productivity App**
 
 ---
 
@@ -17,7 +17,7 @@ Project: **Cat Productivity App**
     * functions looked more cleaner and easier to use 
 
 10/29/23: [Dart Primer](https://youtu.be/FLQ-Vhw1NYQ?si=tkzexejwfiK54_x8)
-* Dart Playground: https://dartpad.dev/?
+* Dart Playground: https://dartpad.dev/
   * went on it to test out all the variables, similar to what I learned in Java thus far
 __Basics__
 * instead of `boolean` (Java), it's `bool`
@@ -26,6 +26,25 @@ __Basics__
 * use `let` if the value won't be changed
 **PAUSED AT 15:47 IN VIDEO**
 
+10/30/23: 
+* continued with the [Dart Primer](https://youtu.be/FLQ-Vhw1NYQ?si=tkzexejwfiK54_x8) video
+<img width="960" alt="image" src="https://github.com/chanryc9471/apcsa-freedom-project/assets/91750491/08270aae-4433-4bd0-ad0f-44c2dd867131">
+<br>
+^ tried following along with the video to get a hang of the dart playground (syntax is similar to Java)
+
+* When I followed along with the video, it showed that I didn't need to initialize the variables yet, but then I saw the error comments telling me to initialize, which finally got my code to work (old video so it probably used to be that one didn't have to initialize for the variable to work
+* learned about inheritance and extending classes
+
+**Overall it seems that Flutter is similar to Java and it seems relatively suitable for the app I want to make. However, I want to make an IOS app Xcode is needed for me to make an IOS app on Flutter.**
+
+11/5/23:
+* followed along this [video](https://youtu.be/C5lpPjoivaw?si=fC4CxmCT-LlnvXe7) and made this:
+<img width="960" alt="image" src="https://github.com/chanryc9471/apcsa-freedom-project/assets/91750491/cd33cf65-92dd-4de5-9a86-39567dd87324">
+<br>
+
+* first step to forming an app UI
+ * it was hard to make the button even though I followed how netninja did it (might try it again next time I tinker)
+* next steps: try to see what Swift has to offer to make my final decision about what tool I am using.
 
 <!-- 
 * Links you used today (websites, videos, etc)
