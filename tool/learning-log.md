@@ -2,7 +2,7 @@
 
 Tool: **Swift**
 
-Project: **Cat Productivity Apps**
+Project: **Cat Productivity App**
 
 ---
 
