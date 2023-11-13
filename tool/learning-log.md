@@ -2,7 +2,7 @@
 
 Tool: **Flutter**
 
-Project: **Cookbook App/ Cat Productivity App**
+Project: **Cookbook App**
 
 ---
 
