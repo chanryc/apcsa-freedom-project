@@ -46,6 +46,11 @@ __Basics__
  * it was hard to make the button even though I followed how netninja did it (might try it again next time I tinker)
 * next steps: try to see what Swift has to offer to make my final decision about what tool I am using.
 
+11/12/23:
+[Swift Youtube Playlist](https://www.youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW)
+* watched videos 1 and 2 about variables and constants
+ * syntax is similar to how javascript declares and initializes variables
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
