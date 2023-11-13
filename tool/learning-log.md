@@ -46,10 +46,18 @@ __Basics__
  * it was hard to make the button even though I followed how netninja did it (might try it again next time I tinker)
 * next steps: try to see what Swift has to offer to make my final decision about what tool I am using.
 
+---
+
+Tool: **Swift**
+
 11/12/23:
 [Swift Youtube Playlist](https://www.youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW)
 * watched videos 1 and 2 about variables and constants
  * syntax is similar to how javascript declares and initializes variables
+
+* found out about Swift playground and possibly use it to make the app without the need for Xcode
+  
+![image](https://github.com/chanryc9471/apcsa-freedom-project/assets/91750491/bcad02ef-f3e2-4491-a989-6a8edf644dd3)
 
 <!-- 
 * Links you used today (websites, videos, etc)
