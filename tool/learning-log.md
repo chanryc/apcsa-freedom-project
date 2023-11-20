@@ -12,15 +12,15 @@ Project: **Cookbook App**
 * VS Code: https://code.visualstudio.com/download
 
 * I originally wanted to do Swift, but I saw Flutter and how it was cross-platform so I liked that better
-  * https://www.youtube.com/watch?v=HJDCXdhQaP0&t=8s
-    * I liked Xcode better
-    * functions looked more cleaner and easier to use 
+   * https://www.youtube.com/watch?v=HJDCXdhQaP0&t=8s
+     * I liked Xcode better
+     * functions looked more cleaner and easier to use 
 
 ---
 
 10/29/23: [Dart Primer](https://youtu.be/FLQ-Vhw1NYQ?si=tkzexejwfiK54_x8)
 * Dart Playground: https://dartpad.dev/
-  * went on it to test out all the variables, similar to what I learned in Java thus far
+   * went on it to test out all the variables, similar to what I learned in Java thus far
 __Basics__
 * instead of `boolean` (Java), it's `bool`
 * variables are similar to Java
@@ -49,7 +49,7 @@ __Basics__
 <br>
 
 * first step to forming an app UI
- * it was hard to make the button even though I followed how netninja did it (might try it again next time I tinker)
+  * it was hard to make the button even though I followed how netninja did it (might try it again next time I tinker)
 * next steps: try to see what Swift has to offer to make my final decision about what tool I am using.
 
 ---
@@ -59,7 +59,7 @@ Tool: **Swift**
 11/12/23:
 [Swift Youtube Playlist](https://www.youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW)
 * watched part 1 and 2 on variables and constants
- * syntax is similar to how javascript declares and initializes variables
+  * syntax is similar to how javascript declares and initializes variables
 
 * found out about Swift playground and possibly use it to make the app without the need for Xcode
   
