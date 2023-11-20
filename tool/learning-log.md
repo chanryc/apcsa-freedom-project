@@ -16,6 +16,8 @@ Project: **Cookbook App**
     * I liked Xcode better
     * functions looked more cleaner and easier to use 
 
+---
+
 10/29/23: [Dart Primer](https://youtu.be/FLQ-Vhw1NYQ?si=tkzexejwfiK54_x8)
 * Dart Playground: https://dartpad.dev/
   * went on it to test out all the variables, similar to what I learned in Java thus far
@@ -25,6 +27,8 @@ __Basics__
 * `dynamic` can be used
 * use `let` if the value won't be changed
 **PAUSED AT 15:47 IN VIDEO**
+
+---
 
 10/30/23: 
 * continued with the [Dart Primer](https://youtu.be/FLQ-Vhw1NYQ?si=tkzexejwfiK54_x8) video
@@ -36,6 +40,8 @@ __Basics__
 * learned about inheritance and extending classes
 
 **Overall it seems that Flutter is similar to Java and it seems relatively suitable for the app I want to make. However, I want to make an IOS app Xcode is needed for me to make an IOS app on Flutter.**
+
+---
 
 11/5/23:
 * followed along this [video](https://youtu.be/C5lpPjoivaw?si=fC4CxmCT-LlnvXe7) and made this:
@@ -52,13 +58,29 @@ Tool: **Swift**
 
 11/12/23:
 [Swift Youtube Playlist](https://www.youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW)
-* watched videos 1 and 2 about variables and constants
+* watched part 1 and 2 on variables and constants
  * syntax is similar to how javascript declares and initializes variables
 
 * found out about Swift playground and possibly use it to make the app without the need for Xcode
   
 ![image](https://github.com/chanryc9471/apcsa-freedom-project/assets/91750491/bcad02ef-f3e2-4491-a989-6a8edf644dd3)
 
+---
+
+11/19/23:
+* watched [part 3 - types](https://youtu.be/48v8FH46mQs?si=-dn7eozv6znIF_Dg)
+ * learned about types
+  * Swift assumes variable type but it can be declared like `var varName: dataType = "anything here"`
+ * do `import UIKit` to import user interface elements
+
+* watched [part 4 - functions & parameters](https://youtu.be/fffG55Ei1Qc?si=k-NBPZAnnPZkBKlC)
+```swift
+func funcName(paramName1: value, randomNum: Int) -> expectedReturnVal {
+return paramName1 + randomNum
+}
+```
+ * learned how to make/call a function, parameters, how to make a function return something, and how a return type is set  in a function
+---
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
