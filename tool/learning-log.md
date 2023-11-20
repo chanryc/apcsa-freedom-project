@@ -69,7 +69,7 @@ Tool: **Swift**
 
 11/19/23:
 * watched [part 3 - types](https://youtu.be/48v8FH46mQs?si=-dn7eozv6znIF_Dg)
- * learned about types
+  * learned about types
   * Swift assumes variable type but it can be declared like `var varName: dataType = "anything here"`
  * do `import UIKit` to import user interface elements
 
