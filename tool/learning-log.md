@@ -58,7 +58,7 @@ Tool: **Swift**
 
 11/12/23:
 [Swift Youtube Playlist](https://www.youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW)
-* watched part 1 and 2 on variables and constants
+* watched parts 1 and 2 on variables and constants
   * syntax is similar to how javascript declares and initializes variables
 
 * found out about Swift playground and possibly use it to make the app without the need for Xcode
@@ -80,6 +80,15 @@ return paramName1 + randomNum
 }
 ```
  * learned how to make/call a function, parameters, how to make a function return something, and how a return type is set  in a function
+
+---
+
+11/26/23:
+* watched a [video](https://youtu.be/uSanD_pFwis?si=F1I5DG-PvTtuh2GZ) to get a sense of SwiftUI
+    * followed along with the video on my own Xcode and did what the YouTuber did and got a feel of how it was like coding with SwiftUI
+    * Didn't fully understand what I was typing in but I started to understand some little bits of what was what
+    * stopped at 4:43 in the video
+
 ---
 <!-- 
 * Links you used today (websites, videos, etc)
