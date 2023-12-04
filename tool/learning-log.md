@@ -90,6 +90,13 @@ return paramName1 + randomNum
     * stopped at 4:43 in the video
 
 ---
+
+12/3/23:
+* continued with the [video](https://youtu.be/uSanD_pFwis?si=F1I5DG-PvTtuh2GZ)
+  *  learned about SF Symbols - https://developer.apple.com/sf-symbols/
+    * tried to get SF Symbols to work but it didn't so I'll try again next time
+    * did not try to code along with the video because it looked too complicated at the moment so I just watched how the person did it
+    * stopped video at 13:42  
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
