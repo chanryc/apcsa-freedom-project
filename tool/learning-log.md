@@ -96,7 +96,20 @@ return paramName1 + randomNum
   *  learned about SF Symbols - https://developer.apple.com/sf-symbols/
     * tried to get SF Symbols to work but it didn't so I'll try again next time
     * did not try to code along with the video because it looked too complicated at the moment so I just watched how the person did it
-    * stopped video at 13:42  
+    * stopped video at 13:42
+ 
+12/10/23: 
+* decided to ditch the previous video because it wasn't helpful and I got too confused with everything since there was no explanation as to the things she coded
+* watched [part 5 - classes and structs](https://youtu.be/ys3dPSKssgk?si=P-dvOx54FKktY_2P) of the playlist from before
+  
+* from the video I made my version of a class and its variables and indicator:
+![image](https://github.com/chanryc9471/apcsa-freedom-project/assets/91750491/17af863d-a759-4db2-bb0b-eaf53636e9c9)<br>
+
+* what I learned from the video on the differences between classes and structs
+![image](https://github.com/chanryc9471/apcsa-freedom-project/assets/91750491/bc772dc0-0788-4965-9f83-32b67fb983b8)<br>
+
+
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
