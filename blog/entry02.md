@@ -1,7 +1,7 @@
 # Entry 2
 ## Learning Swift 12/18/23
 
-As I was set in stone with Swift as my tool, I continued learning Swift by following YouTube tutorials. I continued with the [Swift tutorial playlist](https://www.youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW), and I watched parts 3-5 - coding and taking down important notes:
+As I was set in stone with Swift as my tool, I continued learning Swift by following YouTube tutorials. I continued with the [Swift tutorial playlist](https://www.youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW), and I watched parts 3-5 while coding and taking down important notes:
 
 __Part 3__
 * Swift assumes variable type but it can be declared like `var varName: dataType = "anything here"`
