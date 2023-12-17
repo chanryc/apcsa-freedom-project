@@ -54,7 +54,7 @@ I'm still in stage 2 of the Engineering Design Process (EDP), as I am still rese
 
 Skills that I have developed in this blog entry are *how to learn* and *organization*. I explored Swift and learned it on my own with YouTube and self-tinkering. In the process of learning Swift, I noted down the times I've tinkered with Swift by watching videos and following along. In doing so, I had to keep my notes organized and neat so I could refer back to them later on. 
 
-My freedom project goal for winter break is to finish at least half of the Swift playlist while taking notes and making my examples of the code. I also want to explore further SwiftUI and how to integrate that into the cookbook recipe app 
+My freedom project goal for winter break is to finish at least half of the Swift playlist while taking notes and making my examples of the code. I want to be able to code a mini project from scratch with the concepts that I will learn from the videos to test my knowledge of Swift.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
