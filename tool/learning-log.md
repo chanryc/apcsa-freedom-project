@@ -108,7 +108,19 @@ return paramName1 + randomNum
 * what I learned from the video on the differences between classes and structs
 ![image](https://github.com/chanryc9471/apcsa-freedom-project/assets/91750491/bc772dc0-0788-4965-9f83-32b67fb983b8)<br>
 
-
+1/1/24:
+* watched part 6 [video](https://www.youtube.com/watch?v=8Z0mImrIITA&list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW&index=6)
+![image](https://github.com/chanryc9471/apcsa-freedom-project/assets/91750491/82ef86a0-c808-4918-86a4-954a4ae6134c) <br>
+* this video was easy since it was fairly similar to how Java is, except the `for in` which was new
+  * the `for in` does the same as the `for each`
+* watched part 7 [video](https://www.youtube.com/watch?v=9K89xEuSiYA&list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW&index=7)
+  * paused the video at 7:39 because I got error messages while I was coding along
+    * kept saying something about "Expressions/Statements are not allowed at the top level"
+    * went online to search for answers about the error message (stack overflow) but I couldn't understand it (will research more
+    * while clicking around to get the error message to go away, I found a [documentation](
+https://docs.swift.org/swift-book/documentation/the-swift-programming-language/) for Swift
+      * will browse the documentation more next time
+ 
 
 <!-- 
 * Links you used today (websites, videos, etc)
