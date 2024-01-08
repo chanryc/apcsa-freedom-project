@@ -122,7 +122,24 @@ return paramName1 + randomNum
 https://docs.swift.org/swift-book/documentation/the-swift-programming-language/) for Swift
       * will browse the documentation more next time
  
-
+1/7/24:
+* finished part 7 video
+  * optionality is a good way to represent errors
+    * gives flexibility with assigning values of a particular variable
+   
+* followed along [part 8 video](https://www.youtube.com/watch?v=rBotA3jwWkY&list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW&index=8)
+```java
+// conditionals
+if condition {
+  // stuff
+} else if condition {
+  // stuff
+} else {
+  // stuff
+}
+```
+* operators are the same as Java
+*  will watch part 9 and part 10 (see what I learn from that and maybe code a mini project)
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
