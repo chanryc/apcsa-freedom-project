@@ -140,6 +140,20 @@ if condition {
 ```
 * operators are the same as Java
 *  will watch part 9 and part 10 (see what I learn from that and maybe code a mini project)
+
+1/15/24:
+* watched [part 9](https://www.youtube.com/watch?v=DTd7HHSAw-4&list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW&index=9)
+```java
+// guard statements
+// - they are much more "cleaner" (simpler) than if/else statements
+guard conditional1, conditional2 else { wtvHappensIfConditionalsAreFalse }
+  // code that will run if conditions are met
+```
+* using guards to unwrap optionals and also a simpler way than if/else statement are the most common
+<img width="331" alt="image" src="https://github.com/chanryc9471/apcsa-freedom-project/assets/91750491/24a95701-f991-4783-89de-a54bc5b87e78">
+^^ optionals
+
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
