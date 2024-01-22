@@ -153,6 +153,7 @@ guard conditional1, conditional2 else { wtvHappensIfConditionalsAreFalse }
 <img width="331" alt="image" src="https://github.com/chanryc9471/apcsa-freedom-project/assets/91750491/24a95701-f991-4783-89de-a54bc5b87e78">
 ^^ optional
 
+
 1/21/24:
 * watched [part 10](https://www.youtube.com/watch?v=_qxm-MvRw_Y&list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW&index=10)
 ```java
