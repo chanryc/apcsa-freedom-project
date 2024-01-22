@@ -151,9 +151,25 @@ guard conditional1, conditional2 else { wtvHappensIfConditionalsAreFalse }
 ```
 * using guards to unwrap optionals and also a simpler way than if/else statement are the most common
 <img width="331" alt="image" src="https://github.com/chanryc9471/apcsa-freedom-project/assets/91750491/24a95701-f991-4783-89de-a54bc5b87e78">
-^^ optionals
+^^ optional
 
+1/21/24:
+* watched [part 10](https://www.youtube.com/watch?v=_qxm-MvRw_Y&list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW&index=10)
+```java
+// enums and switch statements
+// an enum is another way to represent cases (used to represent multiple states
 
+enum States {
+  case InProgress, Aborted, Complete, WillStart
+}
+
+let current = States.InProgress
+
+enum States: String{}
+^ enum States inherits strings
+```
+* enum is a special data type that allows variables to be predefined
+* stopped video at 8:31
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
