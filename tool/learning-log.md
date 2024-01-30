@@ -158,7 +158,7 @@ guard conditional1, conditional2 else { wtvHappensIfConditionalsAreFalse }
 * watched [part 10](https://www.youtube.com/watch?v=_qxm-MvRw_Y&list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW&index=10)
 ```java
 // enums and switch statements
-// an enum is another way to represent cases (used to represent multiple states
+//An enum is another way to represent cases (used to represent multiple states)
 
 enum States {
   case InProgress, Aborted, Complete, WillStart
@@ -171,6 +171,31 @@ enum States: String{}
 ```
 * enum is a special data type that allows variables to be predefined
 * stopped video at 8:31
+
+
+1/29/24:
+* continued with part 10
+  * switch allows you to inspect a value and match it with a case
+```java
+func checkStats() {
+  switch current {
+    case .InProgress:
+      // CODE
+      break
+    case .Aborted:
+      // CODE
+      break
+    case .Complete:
+      // CODE
+      break
+    case .WillStart:
+      // CODE
+      break
+  }
+}
+```
+* since `current` is set to `states.InProgress` (from code snippet in last tinker log), whatever code that is for `.InProgress will run
+* 
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
@@ -178,3 +203,4 @@ enum States: String{}
 * Questions you still have
 * What you're going to try next
 -->
+
