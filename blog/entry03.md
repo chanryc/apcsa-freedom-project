@@ -1,5 +1,5 @@
 # Entry 3
-## Learn Swift Pt. 2 2/12/24
+## Learning Swift Pt. 2 2/12/24
 
 Text
 
