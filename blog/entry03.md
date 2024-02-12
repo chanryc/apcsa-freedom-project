@@ -5,7 +5,7 @@ Continuing with the [Swift Tutorial playlist](https://www.youtube.com/playlist?l
 
 __Part 6 - Loops__
 * about loops like `for in` and `while`
-  * the `for in` is similar to a `for each`
+  * The `for in` is similar to a `for each`
 
 ![image](https://github.com/chanryc9471/apcsa-freedom-project/assets/91750491/04d93a26-e35c-419c-96e9-68adc1bb1cbd)
 
