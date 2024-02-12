@@ -81,7 +81,7 @@ Currently, I am still in stage two of the EDP, with all the research and learnin
 
 Skills that I have developed during this blog entry are *time management* and *organization*. I found myself not having much time during the week to tinker deeply with Swift, especially with the workload from other classes. With that I still held myself responsible for tinkering as much as I possibly could with Swift, thus managing my time wisely. While learning from the YouTube videos, I had to organize my notes neatly so that if I ever needed to refer back to them, I would be able to understand them.
 
-Next up I plan to dive more deeply into the documentation and learn from there instead of watching the videos. I feel like the videos are too broad, and they don't go too in-depth with the topic like how documentations do. After looking through the documentation, I think will finally be ready to make a mini project, or start figuring out what specific concepts I will need to implement on my cookbook recipe app.  
+Next up I plan to dive more deeply into the documentation and learn from there, however, I would still continue with the Swift playlist videos. I feel like the videos are too broad, and they don't go too in-depth with the topic like how documentations do. After looking through the documentation, I think will finally be ready to make a mini project, or start figuring out what specific concepts I will need to implement on my cookbook recipe app.  
 
 [Previous](entry02.md) | [Next](entry04.md)
 
