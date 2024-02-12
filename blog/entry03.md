@@ -75,10 +75,13 @@ func checkStats() {
 ```
 * since `current` is set to `states.InProgress` (from code snippet in enum section), whatever code that is for `.InProgress will run
 
-Though I initially planned to make a mini project to test my skills on Swift, I found myself feeling unprepared to start one, hence I only continued with learning Swift from the YouTube playlist.
-  
+Though I initially planned to do a mini project to test my skills on Swift, I felt unprepared to start one, so I decided only to continue learning Swift from the YouTube playlist. Along with the YouTube video, I started looking at [Swift's Documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics) to learn more about Swift. I skimmed through the very beginning of "The Basics" section as I saw overlap with what I learned from the videos, so I didn't take any notes of that part. 
 
+Currently, I am still in stage two of the EDP, with all the research and learning I am still doing with Swift. I am starting to build a more solid foundation of what Swift is capable of doing, and how I can use Swift to code my freedom project.
 
+Skills that I have developed during this blog entry are *time management* and *organization*. I found myself not having much time during the week to tinker deeply with Swift, especially with the workload from other classes. With that I still held myself responsible for tinkering as much as I possibly could with Swift, thus managing my time wisely. While learning from the YouTube videos, I had to organize my notes neatly so that if I ever needed to refer back to them, I would be able to understand them.
+
+Next up I plan to dive more deeply into the documentation and learn from there instead of watching the videos. I feel like the videos are too broad, and they don't go too in-depth with the topic like how documentations do. After looking through the documentation, I think will finally be ready to make a mini project, or start figuring out what specific concepts I will need to implement on my cookbook recipe app.  
 
 [Previous](entry02.md) | [Next](entry04.md)
 
