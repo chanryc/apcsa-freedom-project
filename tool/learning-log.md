@@ -199,7 +199,7 @@ func checkStats() {
 
 
 3/3/24:
-* watched part 11 of the swift playlist
+* watched [part 11](https://www.youtube.com/watch?v=ELRH8vkOlNs&list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW&index=12) of the swift playlist
   * learned about protocols
     * basically like a place to declare your variables and functions before initializing it
     * used for when say those variables and functions can be used in other classes besides just one
