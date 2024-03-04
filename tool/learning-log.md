@@ -195,7 +195,31 @@ func checkStats() {
 }
 ```
 * since `current` is set to `states.InProgress` (from code snippet in last tinker log), whatever code that is for `.InProgress will run
-* 
+
+
+
+3/3/24:
+* watched part 11 of the swift playlist
+  * learned about protocols
+    * basically like a place to declare your variables and functions before initializing it
+    * used for when say those variables and functions can be used in other classes besides just one
+```java
+// protocols
+protocol AnyFun {
+  var anything: String { get set } // the get set is so the classes can get and set the value of the var
+
+  func anyWords()
+  func haveApple() -> Bool
+
+// class
+class haveApple() ->  {
+  var anything: String
+  init(var anything: String) {
+    self.color = color
+  }
+
+}
+}    
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
