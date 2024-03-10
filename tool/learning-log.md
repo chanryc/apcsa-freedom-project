@@ -221,6 +221,23 @@ class haveApple() ->  {
 }
 }
 ```
+
+3/10/24:
+* watched [part 12 - strong vs weak memory](https://www.youtube.com/watch?v=I2mu9gMUbF0&list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW&index=12)
+  * if something is `strong` in memory, that means that it won't deleted away by whatever it is tied to (even if we don't use/need it)
+    * variables are by default set to strong 
+  * if something is `weak` in memory, that means that it will be deleted away if the "parent" or whatever it is tied to is deleted
+    * ex: `weak var balloon = "str"`
+
+* learned about closures through the [documentation](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures)
+  * Closures: self-contained blocks of code that can be passed around and used in other parts of code; similar to the workings of a function, except it is more shortened 
+```java
+// closure expression syntax
+{ (<#parameters#>) -> <#return type#> in
+   <#statements#>
+}
+```    
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
