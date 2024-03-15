@@ -1,5 +1,7 @@
 # Entry 4
-##### X/X/XX
+## Start of MVP 3/18/24
+
+Between the previous entry and this blog entry, I have been tinkering with Swift still and I began to make progress towards the cookbook recipe app.
 
 Text
 
