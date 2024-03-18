@@ -39,7 +39,7 @@ In addition to watching the videos, I finally took the chance to learn from the 
 
 I am currently in stage three and four of the EDP, which is brainstorming possible solutions and planning the most promising solution. Brainstorming and planning go hand in hand, and so my partners and I planned out out MVP plan of all the lists of tasks we were to complete before set deadlines. We decided on the most essential features and components of our app.
 
-Skills that I have achieved in this blog entry are *how to google* and *how to learn*. Xcode was a new environment for my partners and I, and so we all had to google search for specific key phrases like "connect xcode to github" or "link github account to xcode" in order for us to be able to collaborate on a repository together. I especially needed to know how to learn as I had to a few video tutorials before I fully understood how to add my github to Xcode.
+Skills that I have achieved in this blog entry are *how to google* and *how to learn*. Xcode was a new environment for my partners and I, and so we all had to google search for specific key phrases like "connect xcode to github" or "link github account to xcode" in order for us to be able to collaborate on a repository together. I especially needed to know how to learn as I had to a few video tutorials before I fully understood how to add my github to Xcode. It was very different from how an ide from the webpage was set up.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
