@@ -210,6 +210,7 @@ protocol AnyFun {
 
   func anyWords()
   func haveApple() -> Bool
+}
 
 // class
 class haveApple() ->  {
@@ -218,7 +219,6 @@ class haveApple() ->  {
     self.color = color
   }
 
-}
 }
 ```
 
