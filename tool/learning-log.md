@@ -238,6 +238,19 @@ class haveApple() ->  {
 }
 ```    
 
+
+
+3/17/24:
+* watched [video](https://youtu.be/xiS5gJOIQxI?si=tLNR1s2ygoM74aeu) on the difference of when to use `@escaping` and nonescaping closures
+  * use `@escaping` when closure needs to outlive the life of its function, meaning that the closure is allowed to escape
+```java
+// documentation's example of @escaping
+var completionHandlers: [() -> Void] = []
+func someFunctionWithEscapingClosure(completionHandler: @escaping () -> Void) {
+    completionHandlers.append(completionHandler)
+}
+```
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
