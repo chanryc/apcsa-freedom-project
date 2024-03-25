@@ -251,6 +251,29 @@ func someFunctionWithEscapingClosure(completionHandler: @escaping () -> Void) {
 }
 ```
 
+
+3/24/24: 
+* watched this [video](https://youtu.be/4PI04Yj3Ngs?si=kaUTIh473YU2iGF1) on how to change fonts
+  * upload font into swift project
+  * add it to a plist file
+    * <img width="682" alt="image" src="https://github.com/chanryc9471/apcsa-freedom-project/assets/91750491/6df8b9f4-01d7-4f84-8d3f-87c43f6db223">
+  * go to where you want the font to be used
+    * `.font(.custom(name: fontFamName, size: #))` (like `.font(.custon(name: ZenLoop-Regular, size: 50))`)
+
+how to figure out the name of the font (it might not be the file name of the font):
+```java
+init() {
+  for familyName in UIFont.familyNames {
+      print(familyName)
+
+      for fontName in UIFont.fontNames(forFamilyName: familyName) {
+          print("-- \(fontName)")
+      }
+  }
+}
+```
+   
+  
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
