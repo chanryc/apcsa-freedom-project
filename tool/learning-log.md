@@ -296,7 +296,7 @@ NavigationView {
 ```
 
 * watched this [video](https://www.youtube.com/watch?v=tXFwyFdkSas)
-  * `navigationBarTitleDisplayMode(.inline)` allows you to make it so that the nav bar turns into this when scrolling down:
+  * `navigationBarTitleDisplayMode(.inline)` makes the nav bar turns into this when scrolling down:
     * <img width="101" alt="image" src="https://github.com/chanryc9471/apcsa-freedom-project/assets/91750491/ac07c8fd-42e3-4e88-b69e-6e431501f438">
     
 ```java
