@@ -272,7 +272,27 @@ init() {
   }
 }
 ```
-   
+
+
+4/1/24:
+* watched this [video](https://www.youtube.com/watch?v=nqTcAzPS3oc) to learn how to add a title on a page
+```java
+NavigationView {
+  .navigationTitle("Any Title!")
+}
+```
+* watched this [video](https://www.youtube.com/watch?v=D0siMqCwMJY) to learn how to navigate between views
+  * can navigate between views (pages) 
+```java
+NavigationView {
+    VStack {
+        NavigationLink(destination: OtherFile()){
+            Text("Click to Navigate")
+        }  
+    }
+}
+```
+
   
 <!-- 
 * Links you used today (websites, videos, etc)
