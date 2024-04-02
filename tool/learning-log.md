@@ -292,7 +292,7 @@ NavigationView {
     }
 }
 ```
-
+* will use these on the app to navigate between different tabs on the app
   
 <!-- 
 * Links you used today (websites, videos, etc)
