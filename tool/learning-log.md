@@ -276,13 +276,15 @@ init() {
 
 4/1/24:
 * watched this [video](https://www.youtube.com/watch?v=nqTcAzPS3oc) to learn how to add a title on a page
+  * `.navigationTitle()` allows you to add a title to nav view 
 ```java
 NavigationView {
   .navigationTitle("Any Title!")
 }
 ```
+
 * watched this [video](https://www.youtube.com/watch?v=D0siMqCwMJY) to learn how to navigate between views
-  * can navigate between views (pages) 
+  * can navigate between views (pages) with the use of `NavigationLink()`
 ```java
 NavigationView {
     VStack {
@@ -292,7 +294,20 @@ NavigationView {
     }
 }
 ```
-* will use these on the app to navigate between different tabs on the app
+
+* watched this [video](https://www.youtube.com/watch?v=tXFwyFdkSas)
+  * `navigationBarTitleDisplayMode(.inline)` allows you to make it so that the nav bar turns into this when scrolling down:
+    * <img width="101" alt="image" src="https://github.com/chanryc9471/apcsa-freedom-project/assets/91750491/ac07c8fd-42e3-4e88-b69e-6e431501f438">
+    
+```java
+// ScrollView allows you to scroll on whatever is put inside
+ScrollView {
+    Text("Hello, How are you?")
+    Text("Hello, How are you?")
+    Text("Hello, How are you?")
+}
+
+// 
   
 <!-- 
 * Links you used today (websites, videos, etc)
