@@ -309,7 +309,12 @@ ScrollView {
 ```
 
 
-
+4/7/24:
+* watched [part 14 - strings](https://www.youtube.com/watch?v=TqN9Asm0Zvo&list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW&index=14) about strings
+  * string interpolation: the concept of putting a variables value inside of a string
+    * put the variable in parentheses and then prefix it with a backslash, like `"\(first) \(last)"`
+    * doesn't have to be a string, it can also be a number
+    * `var.count` gives you the number of characters in a string
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
