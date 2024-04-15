@@ -315,6 +315,46 @@ ScrollView {
     * put the variable in parentheses and then prefix it with a backslash, like `"\(first) \(last)"`
     * doesn't have to be a string, it can also be a number
     * `var.count` gives you the number of characters in a string
+   
+
+4/14/24:
+* watched [part 15 - Arrays & Dictionaries](https://www.youtube.com/watch?v=-uwSmesQKHE&list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW&index=15)
+    * arrays and dictionaries are both a type of collection, both data structures
+    * dictionaries have keys and values
+        * https://www.tutorialspoint.com/swift/swift_dictionaries.htm
+```java
+// array of integers
+var nums: [Int] = [1, 2, 3,]
+
+// array of strings
+var names: [String] = [Chanry, Bob, Billy]
+
+// array with more than one datatype
+var anything: [Any] = [Chanry, 1.23, 5]
+
+// iterating through array (integers)
+for num in nums {
+    print(num)
+}
+
+// dictionary of strings as keys and integers as values
+var characters: [String: Int] = ["chanry": 1, "bob": 2, "billy": 3]
+
+// iterating through dictionary
+for (key, value) in characters {
+    print(key)
+    print(value)
+}
+
+// print will be like:
+// chanry
+// 1
+// bob
+// 2
+// billy
+// 3
+
+``` 
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
