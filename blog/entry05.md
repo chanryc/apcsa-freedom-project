@@ -94,7 +94,9 @@ for (key, value) in characters {
 // 3
 ``` 
 
-I am currently on 
+I am currently on stage 5 and stage 6 of the EDP, which is creating a prototype and testing and evaluating the prototype, respectfully. My partners and I have been creating the MVP, and in doing so, we tested and evaluated the app as needed. We are soon going to advance and go beyond MVP to add more features.
+
+Skills that I have achieved in this blog entry are *communication* and *time management*. While coding on Xcode on our project, sometimes unsaved changes would "disappear" after pulling from the github repository, which made it difficult for us to code and update each other on the progress. This led to us communicating way more as we needed to make sure the code didn't disappear. I also worked on my time management skills, as it was crucial that I follow the MVP plan to make sure that I meet the deadline for MVP. I held myself accountable for the components that had to be done before a certain time, and made sure to allocate time in my schedule to work on my MVP.
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
