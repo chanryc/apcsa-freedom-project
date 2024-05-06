@@ -97,6 +97,8 @@ for (key, value) in characters {
 I am currently on stages 5 and 6 of the EDP, which involve creating a prototype and testing and evaluating it respectfully. My partners and I have been creating the MVP, and in doing so, we tested and evaluated the app as needed. We will soon advance and add more features beyond the MVP.
 
 Skills I have achieved in this blog entry are *communication* and *time management*. While coding on Xcode on our project, sometimes unsaved changes would "disappear" after pulling from the GitHub repository, which made it difficult for us to code and update each other on the progress. This led to us communicating way more, as we needed to ensure the code didn't disappear. I also worked on my time management skills, as it was crucial that I follow the MVP plan to ensure that I meet the deadline for MVP. I held myself accountable for the components that had to be done before a certain time and allocated time to work on my MVP.
+
+
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
